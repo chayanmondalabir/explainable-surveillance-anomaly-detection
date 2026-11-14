@@ -280,7 +280,7 @@ This section will be updated with the full reference after publication.
 
 ## Contact
 
-Corresponding author: G. Balamurugan — balamurg1@srmist.edu.in
+Author: Chayan Mondal Abir — abirchayan2000@gmail.com
 For questions about the code, please open an issue once the repository is public.
 
 ## Acknowledgements
